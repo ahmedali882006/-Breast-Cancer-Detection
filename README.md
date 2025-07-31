@@ -1,8 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Ahmed Ali</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner" width="90%">
-</p>
+<h3 align="center">Machine Learning Engineer | Deep Learning Enthusiast | AI Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedali882006"><img src="https://img.shields.io/github/followers/ahmedali882006?label=GitHub&style=social" alt="GitHub"></a>
@@ -21,13 +18,7 @@ My passion lies in building smart models that can truly make an impact — from 
 
 ## 🩺 Project: Breast Cancer Detection using Machine Learning
 
-🔍 **Objective:**  
-Build an ML model to accurately predict whether a tumor is **malignant** or **benign**, based on clinical features from breast cancer data.
-
-🧬 **Dataset:**  
-- [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
-
-⚙️ **Tech Stack:**
+🔍 **Obje**
 
 🚀 **Modeling Techniques:**
 - Logistic Regression  
@@ -39,10 +30,12 @@ Build an ML model to accurately predict whether a tumor is **malignant** or **be
 📊 **Results:**  
 The best model achieved over **96% accuracy** on test data with strong generalization on unseen samples.
 
-📌 **Preview:**
+📌 **Preview:** *(replace below with your images if available)*
 
-![Confusion Matrix](https://user-images.githubusercontent.com/your-image-path/confusion-matrix.png) <!-- Replace with real image if available -->
+<!-- 
+![Confusion Matrix](https://user-images.githubusercontent.com/your-image-path/confusion-matrix.png)
 ![ROC Curve](https://user-images.githubusercontent.com/your-image-path/roc-curve.png)
+-->
 
 ---
 
